@@ -18,7 +18,7 @@ The application is deployed using **Streamlit Cloud**.
 
 🔗 **Public App Link**
 
-https://math-fa2-dwij-vala-7mstmknymgfmqxy4qfatr2.streamlit.app/
+https://crypto-volatility-dwij-vala.streamlit.app/
 
 This interactive dashboard allows users to analyze cryptocurrency volatility and explore simulated market behavior using mathematical models.
 
